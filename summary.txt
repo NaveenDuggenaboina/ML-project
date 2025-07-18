@@ -1,0 +1,3 @@
+Model used: Random Forest
+Accuracy: 95%
+Insights: Age and hypertension are key features.
