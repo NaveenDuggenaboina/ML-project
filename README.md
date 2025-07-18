@@ -1,2 +1,3 @@
-# ML-project
-Detection of Stroke Disease  using Machine Learning
+# Stroke Disease Detection using Machine Learning
+
+This project predicts the risk of stroke based on medical features using supervised ML models.
